@@ -1,4 +1,4 @@
-# Image Classifier Model in 
+# Image Classifier Model in R
 
 You will have used the R programming language to build, train, and evaluate a neural network model to classify images of clothing items into categories such as t-shirts, trousers, and sneakers.
 
