@@ -2,7 +2,7 @@
 
 You will have used the R programming language to build, train, and evaluate a neural network model to classify images of clothing items into categories such as t-shirts, trousers, and sneakers.
 
-## The hands on project on Build a Deep Learning Based Image Classifier with R is divided into following tasks:
+## The hands on project on Build a Deep Learning Based Image Classifier with R is divided into following tasks
 
 #### Task 1: Project Overview and Import Libraries
 #### Task 2: Import the Fashion MNIST Dataset
